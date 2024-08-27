@@ -1,4 +1,4 @@
-package com.glab30952.model;
+package com.Glab30952.model;
 
 import lombok.AccessLevel;
 import lombok.Data;
